@@ -1,0 +1,95 @@
+*{box-sizing: border-box;}
+
+	body{margin: 0;
+			font-family: Georgia, Helvetica, sans-serif;
+			background-color: #fdf2e9 ;}
+
+	.header{
+			padding: 5px;
+			text-align: center;
+			color: #78281f ;
+			font-size: 18px;
+			font-family: Georgia;
+		}
+
+	.topnav{overflow: hidden;
+			background-color: #ec7063 ;}
+
+	.topnav a{float: left;
+			display: block;
+			color: #f2f2f2;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+			font-size: 18px;}
+
+	.topnav a:hover{background-color: #f5b7b1 ;
+			color: black;}
+
+	.content{font-size:14 ;
+			padding:10px;
+			text-align: justify;
+			font-family: Book Antiqua;
+			border-radius: 8px;
+			box-shadow: 0 0 10 px rgba (0, 0, 0, 0.1);
+			max-width: 800px;
+			margin:20px auto;
+		}
+
+	.tipos.content{font-size:14 ;
+			padding:10px;
+			text-align: justify;
+			font-family: Book Antiqua;
+			border-radius: 8px;
+			box-shadow: 0 0 10 px rgba (0, 0, 0, 0.1);
+			max-width: 800px;
+			margin:20px auto;
+		}
+
+	.causas.content{font-size:14 ;
+			padding:10px;
+			text-align: justify;
+			font-family: Book Antiqua;
+			border-radius: 8px;
+			box-shadow: 0 0 10 px rgba (0, 0, 0, 0.1);
+			max-width: 800px;
+			margin:20px auto;
+		}
+
+	.consecuencias.content{font-size:14 ;
+			padding:10px;
+			text-align: justify;
+			font-family: Book Antiqua;
+			border-radius: 8px;
+			box-shadow: 0 0 10 px rgba (0, 0, 0, 0.1);
+			max-width: 800px;
+			margin:20px auto;
+		}
+
+	.leyes.content{font-size:14 ;
+			padding:10px;
+			text-align: justify;
+			font-family: Book Antiqua;
+			border-radius: 8px;
+			box-shadow: 0 0 10 px rgba (0, 0, 0, 0.1);
+			max-width: 800px;
+			margin:20px auto;
+		}
+
+	.ejemplo.content{font-size:14 ;
+			padding:10px;
+			text-align: justify;
+			font-family: Book Antiqua;
+			border-radius: 8px;
+			box-shadow: 0 0 10 px rgba (0, 0, 0, 0.1);
+			max-width: 800px;
+			margin:20px auto;
+		}
+
+	.footer {bottom: 0;
+ 		 	width: 100%;
+  			background-color:#ec7063;
+      		color: white;
+     		padding:3px;
+      		text-align:center;
+      		 ; }
